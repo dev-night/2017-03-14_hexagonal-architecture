@@ -1,2 +1,5 @@
-# 2017-03-14_hexagonal-architecture
-#008 /dev/night - Hexagonal Architecture (2017-03-14)
+# #008 /dev/night - Hexagonal Architecture (2017-03-14)
+
+This repo provides all source code created at the event.
+
+The Meetup Event: https://www.meetup.com/de-DE/dev_night/events/237755537/
